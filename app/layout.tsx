@@ -18,6 +18,11 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
   ],
+  openGraph: {
+    images: [
+      "https://imgix.cosmicjs.com/ec1b2a30-4126-11ee-82b2-d53af1858037-360912.jpg?w=2000&auto=format,compression",
+    ],
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
