@@ -6,7 +6,7 @@ export default function IndexPage() {
           Hello, I&apos;m Tony Spiro.
         </h1>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
-          Welcome to my corner of the internet universe.
+          Welcome to my corner of the internet universe. 🌌
         </p>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-2">
           Some things about me:
@@ -27,7 +27,10 @@ export default function IndexPage() {
             I studied music composition and performance because I love jazz
             music. 🎶
           </li>
-          <li>I&apos;ve traveled all over the world performing music. 🌎</li>
+          <li>
+            After graduating music school, I performed professionally all over
+            the world. 🌎
+          </li>
           <li>I spent 20 years living in Texas. 🤠 </li>
           <li>I&apos;m a self-taught software engineer. 💻</li>
           <li>I founded Cosmic in 2016. 🛠️</li>
@@ -45,7 +48,7 @@ export default function IndexPage() {
         </ul>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
           When I&apos;m not building digital products, you can find me playing
-          music (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, or grilling. 🥩
+          music (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, and grilling. 🥩
         </p>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800">
           What to learn more?{" "}
