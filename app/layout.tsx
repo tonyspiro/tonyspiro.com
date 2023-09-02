@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     images: [
-      "https://imgix.cosmicjs.com/ec1b2a30-4126-11ee-82b2-d53af1858037-360912.jpg?w=2000&auto=format,compression",
+      "https://imgix.cosmicjs.com/91977690-49cd-11ee-82b2-d53af1858037-me.jpeg?w=2000&auto=format,compression",
     ],
   },
   icons: {
