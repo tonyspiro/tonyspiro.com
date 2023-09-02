@@ -20,18 +20,18 @@ export default function IndexPage() {
                 className="text-blue-500 dark:text-blue-400"
               >
                 Cosmic
-              </a>{" "}
-              ✨
+              </a>
+              . ✨
             </li>
-            <li>I grew up in Los Angeles, California ☀️</li>
+            <li>I grew up in Los Angeles, California. ☀️</li>
             <li>
               I studied music composition and performance because I love jazz
-              music 🎶
+              music. 🎶
             </li>
-            <li>I&apos;ve traveled all over the world performing music 🌎</li>
-            <li>I spent 20 years living in Texas 🤠 </li>
-            <li>I&apos;m a self-taught software engineer 💻</li>
-            <li>I founded Cosmic in 2016</li>
+            <li>I&apos;ve traveled all over the world performing music. 🌎</li>
+            <li>I spent 20 years living in Texas. 🤠 </li>
+            <li>I&apos;m a self-taught software engineer. 💻</li>
+            <li>I started building Cosmic in 2016. 🏗️</li>
             <li>
               I attended{" "}
               <a
@@ -40,14 +40,14 @@ export default function IndexPage() {
               >
                 Y Combinator
               </a>{" "}
-              (W19) 🟧
+              (W19). 🟧
             </li>
-            <li>I now live in SF 🌉</li>
+            <li>I now live in SF. 🌉</li>
           </ul>
         </p>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
           When I&apos;m not building digital products, you can find me playing
-          music (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, or grilling 🥩
+          music (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, or grilling. 🥩
         </p>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800">
           What to learn more?{" "}
