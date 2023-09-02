@@ -1,38 +1,63 @@
-import Link from "next/link"
-
-import { siteConfig } from "@/config/site"
-import { buttonVariants } from "@/components/ui/button"
-
 export default function IndexPage() {
   return (
     <section className="container grid items-center gap-6 pb-8 pt-6 md:py-10">
       <div className="flex max-w-[980px] flex-col items-start gap-2">
-        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-          Beautifully designed template <br className="hidden sm:inline" />
-          built with Next.js, Shadcn UI, Tailwind CSS, and Cosmic.
+        <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl mb-4">
+          Hello, I'm Tony Spiro.
         </h1>
-        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800">
-          Use it as a starter for your Cosmic websites and apps. Extension
-          ready.
+        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
+          Welcome to my corner of the internet universe.
         </p>
-      </div>
-      <div className="flex gap-4">
-        <Link
-          href={siteConfig.links.docs}
-          target="_blank"
-          rel="noreferrer"
-          className={buttonVariants()}
-        >
-          Documentation
-        </Link>
-        <Link
-          target="_blank"
-          rel="noreferrer"
-          href={siteConfig.links.login}
-          className={buttonVariants({ variant: "outline" })}
-        >
-          Login
-        </Link>
+        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-2">
+          Some things about me:
+        </p>
+        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
+          <ul className="ml-6 list-disc">
+            <li>
+              I'm the CEO of{" "}
+              <a
+                href="https://www.cosmicjs.com"
+                className="text-blue-500 dark:text-blue-400"
+              >
+                Cosmic
+              </a>{" "}
+              ✨
+            </li>
+            <li>I grew up in Los Angeles, California ☀️</li>
+            <li>
+              I studied music composition and performance because I love jazz
+              music 🎶
+            </li>
+            <li>I've traveled all over the world performing music 🌎</li>
+            <li>I spent 20 years in Texas 🤠 </li>
+            <li>I'm a self-taught software engineer 💻</li>
+            <li>
+              I founded Cosmic in 2016 and attended{" "}
+              <a
+                href="https://ycombinator.com"
+                className="text-blue-500 dark:text-blue-400"
+              >
+                Y Combinator
+              </a>{" "}
+              (W19) 🟧
+            </li>
+            <li>I now live in SF 🌉</li>
+          </ul>
+        </p>
+        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800 mb-6">
+          When I'm not building digital products, you can find me playing music
+          (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, or grilling 🥩
+        </p>
+        <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800">
+          What to learn more?{" "}
+          <a
+            href="https://x.com/tonyspiro"
+            className="text-blue-500 dark:text-blue-400"
+          >
+            Follow me on X
+          </a>
+          .
+        </p>
       </div>
     </section>
   )

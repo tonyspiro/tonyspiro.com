@@ -1,9 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
-  description:
-    "Beautifully designed template built with Next.js, Shadcn UI, Tailwind CSS, and Cosmic.",
+  name: "About Tony Spiro",
+  description: "Learn about Tony Spiro, the CEO of Cosmic.",
   mainNav: [
     {
       title: "Home",
@@ -11,9 +10,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    x: "https://x.com/cosmicjs",
-    github: "https://github.com/cosmicjs/cosmic-next-template",
-    docs: "https://www.cosmicjs.com/docs",
-    login: "https://app.cosmicjs.com/login",
+    x: "https://x.com/tonyspiro",
+    github: "https://github.com/tonyspiro",
   },
 }
