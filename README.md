@@ -1,4 +1,4 @@
-# Cosmic Next Template
+# tonyspiro.com
 
 Website for https://www.tonyspiro.com. This repo is a fork of the [Cosmic Next template](https://github.com/cosmicjs/cosmic-next-template).
 
