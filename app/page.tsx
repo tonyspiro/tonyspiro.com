@@ -31,7 +31,7 @@ export default function IndexPage() {
             <li>I&apos;ve traveled all over the world performing music. 🌎</li>
             <li>I spent 20 years living in Texas. 🤠 </li>
             <li>I&apos;m a self-taught software engineer. 💻</li>
-            <li>I founded Cosmic in 2016. 🏗️</li>
+            <li>I founded Cosmic in 2016. 🛠️</li>
             <li>
               I attended{" "}
               <a
