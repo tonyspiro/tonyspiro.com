@@ -1,12 +1,12 @@
 # Cosmic Next Template
 
-Beautifully designed template built with Next.js, Shadcn UI, Tailwind CSS. Use it as a starter for your Cosmic websites and apps. Use it as a [Cosmic extension](https://www.cosmicjs.com/docs/dashboard/buckets#extensions) starter.
+Website for https://www.tonyspiro.com. This repo is a fork of the [Cosmic Next template](https://github.com/cosmicjs/cosmic-next-template).
 
 ## Usage
 
 ```bash
-git clone https://github.com/cosmicjs/cosmic-next-template
-cd cosmic-next-template
+git clone https://github.com/tonyspiro/tonyspiro.com
+cd tonyspiro.com
 yarn
 yarn dev
 ```
@@ -22,4 +22,4 @@ yarn dev
 
 ## License
 
-Licensed under the [MIT license](https://github.com/cosmicjs/cosmic-next-template/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/tonyspiro/tonyspiro.com/blob/main/LICENSE.md).
