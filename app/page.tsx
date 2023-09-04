@@ -51,7 +51,7 @@ export default function IndexPage() {
           music (🥁, 🎹, 🎸), hiking 🗻, surfing 🏄🏻‍♂️, and grilling. 🥩
         </p>
         <p className="max-w-[700px] text-lg text-gray-800 dark:text-dark-gray-800">
-          What to learn more?{" "}
+          Want to learn more?{" "}
           <a
             href="https://x.com/tonyspiro"
             className="text-blue-500 dark:text-blue-400"
